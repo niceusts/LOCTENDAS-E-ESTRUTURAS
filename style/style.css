@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-site {
+    margin-top: 66px;
+    background-image: url(../img/carro-princ.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: ivory;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+.content-site {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.img-site {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: ivory;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 150px;
+}
+
+.footer-site {
+    background-color: #000b30;
+    color: white;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
